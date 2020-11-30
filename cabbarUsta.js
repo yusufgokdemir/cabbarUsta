@@ -32,5 +32,5 @@ if (musyılı >= 5) {
     }
   }
 } else {
-  console.log("aracinizi tamir ettirmek icin lutfen yan sokaktaki Sevket ustaya gidin");
+  console.log("aracinizi tamir ettirmek icin lutfen yan sokaktaki Sevket ustaya gidin.");
 }
